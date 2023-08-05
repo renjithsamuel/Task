@@ -1,0 +1,20 @@
+create 2 pages  
+1 -> register 
+2 -> login 
+
+assume -> e commerce application
+form validations
+
+style the application
+
+45 minutes
+
+local storage
+
+
+inputs for register
+
+name 
+email
+date of birth
+annual income
